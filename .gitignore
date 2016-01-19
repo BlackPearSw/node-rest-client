@@ -9,3 +9,10 @@ node_modules
 test/multiple-clients-test.js
 
 test/manual-test.js
+.idea/.name
+.idea/encodings.xml
+.idea/misc.xml
+.idea/modules.xml
+.idea/node-rest-client.iml
+.idea/workspace.xml
+.idea
